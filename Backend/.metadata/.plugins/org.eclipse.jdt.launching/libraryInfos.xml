@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="C:\Users\shaik\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot" version="17.0.10"/>
+    <libraryInfo home="C:\Users\shaik\OneDrive\Desktop\FSD\STS\sts-4.27.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.5.v20241023-1957" version="21.0.5">
+        <bootpath>
+            <entry path="null"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="null"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="null"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="C:\Users\shaik\OneDrive\Desktop\FSD\STS\sts-4.27.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.5.v20241023-1957\jre" version="21.0.5"/>
+    <libraryInfo home="C:\Program Files\Eclipse Adoptium\jdk-21.0.2.13-hotspot" version="21.0.2"/>
+</libraryInfos>
