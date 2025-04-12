@@ -9,6 +9,8 @@ import klu.model.*;
 public interface UsersRepository extends JpaRepository<Users,String>{
 //Query for email
 	@Query("SELECT COUNT(U) FROM Users U WHERE U.email = :email")
-	    int validateEmail(@Param("email") String email);
+	   public int validateEmail(@Param("email") String email);
+	@Query("select count(U) from Users U where U.email=:email and U.password=:password")
+	  public int validateCredentials(@Param("email") String email, @Param("password") String password);
 	}
 

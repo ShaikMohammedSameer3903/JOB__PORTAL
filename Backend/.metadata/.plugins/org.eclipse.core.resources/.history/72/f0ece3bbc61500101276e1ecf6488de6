@@ -1,0 +1,5 @@
+package klu.repository;
+
+public interface MenusRepository {
+
+}
